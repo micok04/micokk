@@ -1,0 +1,20 @@
+body{
+    background-color:red;
+    background-image: url("../img/descarga.jfif");
+    background-size: cover;
+    color: beige;
+}
+.logo{
+    width:200px;
+    border-radius:50%;
+
+}
+.inicio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} 
+.inicio h1{
+    font-size: 100px;
+    font-weight: bold;
+}
